@@ -71,7 +71,7 @@ System displays “No Records Found” or empty results.
 
 **Steps:**
 1. Navigate to Directory
-2. Enter employee name
+2. Enter employee name (e.g., Employee Name: Rebecca)
 3. Click Search
 
 **Expected Result:**
