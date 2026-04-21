@@ -31,5 +31,9 @@ Modules tested:
 - Defects/
 - Screenshots
 
+- ## Application Under Test
+OrangeHRM Demo Application  
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
 ## Summary
 This project demonstrates the ability to analyze a web-based application, design test scenarios across multiple modules, and document defects based on system behavior and user interaction.
