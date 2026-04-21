@@ -31,6 +31,8 @@ Modules tested:
 - Defects/
 - Screenshots/
 
+*Screenshots are included to support defect findings and validation scenarios.
+
 ## Application Under Test
 OrangeHRM Demo Application  
 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
