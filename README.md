@@ -29,7 +29,7 @@ Modules tested:
 ## Repository Contents
 - Test_Cases.md
 - Defects/
-- Screenshots
+- Screenshots/
 
 ## Application Under Test
 OrangeHRM Demo Application  
