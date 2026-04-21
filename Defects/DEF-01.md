@@ -16,3 +16,8 @@ Medium
 
 ## Impact
 Users may be unable to locate employees when searching by full name, especially when multiple employees share similar first names.
+
+## Screenshot
+![Directory Search Bug](../Screenshots/DEF-01_1.png)
+
+![Directory Search Bug](../Screenshots/DEF-01_2.png)
