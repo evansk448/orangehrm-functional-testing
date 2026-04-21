@@ -59,7 +59,7 @@ Matching candidates are displayed.
 ## TC-06: No Results Search
 
 **Steps:**
-1. Enter criteria with no matching records
+1. Enter criteria with no matching records (e.g., Vacancies - Job Title: ‘Chief Executive Officer’, Status: ‘Active’)
 2. Click Search
 
 **Expected Result:**
