@@ -31,7 +31,7 @@ Modules tested:
 - Defects/
 - Screenshots
 
-- ## Application Under Test
+## Application Under Test
 OrangeHRM Demo Application  
 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
